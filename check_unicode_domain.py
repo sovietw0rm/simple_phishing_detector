@@ -1,4 +1,6 @@
-mport idna
+# coding: utf-8
+
+import idna
 import unicodedata
 import sys
 
